@@ -305,7 +305,7 @@ Note: For TBS 6903-X you need to tune the signal in Linux as the Windows driver 
 For processing you need **pts2bbf** from https://github.com/newspaperman/bbframe-tools (see Readme there) and **bbfedi2eti** from this repository.
 
 #### Norway ####
-1.0ºW, 10720V, SR 5400, FEC 3/4 in DVB-S2/8PSK, MIS=171 DVB-GSE 
+1.0ºW, 10716V, SR 5400, FEC 3/4 in DVB-S2/8PSK, MIS=171 DVB-GSE 
 
 Ensemble|IP-Address:Port
 --|--
