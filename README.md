@@ -283,6 +283,7 @@ Ensemble | IP-Address:Port
 -- | --
 Métropolitain 1 | 239.0.1.11:5001
 Métropolitain 2 | 239.0.1.12:5002
+RTL2 | 239.10.1.10:7010
 
 #### UK ####
 
